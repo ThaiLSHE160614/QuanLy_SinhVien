@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddMajor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddMark.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddSubject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Khoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Mon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Sinhvien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateKhoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateMon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateSinhVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewAllStudentByMajor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewMark.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewMarkBySubject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewStudentByMajor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
